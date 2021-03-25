@@ -1,0 +1,15 @@
+h1 {
+  background-color: #f5ba13;
+  margin: auto -16px;
+  padding: 16px 20px;
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3);
+  background-color: #f5ba13;
+  color: #fff;
+  font-weight: 500;
+}
+
+button,
+.button {
+  margin-bottom: 0 !important;
+  margin-right: 0.5rem;
+}
